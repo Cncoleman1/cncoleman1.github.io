@@ -27,10 +27,10 @@ en: &DEFAULT_EN
         icon: fas fa-book-open #find more at https://fontawesome.com/icons
       - title: "Teaching"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-solid fa-apple-whole
+        icon: fas fa-apple-whole
       - title: "Outreach"
         desc: "Your description here, full **Markdown** support"
-        icon: fas fa-solid fa-people-group
+        icon: fas fa-people-group
 
   portfolio:
     title: "Portfolio"
@@ -104,19 +104,19 @@ en: &DEFAULT_EN
         image: assets/img/team/500x500.jpg
         social:
           - url: https://med.emory.edu/departments/pathology/research/patru/people/laboratories/medina-lab.html
-            icon: fab fa-regular fa-address-card
+            icon: fas fa-regular fa-address-card
       - name: "Anne Piantadosi"
         role: "Committee Lead"
         image: assets/img/team/2.jpg
         social:
           - url: https://vaccines.emory.edu/faculty/primary-faculty/piantadosi-anne.html
-            icon: fab fa-regular fa-address-card
+            icon: fas fa-regular fa-address-card
       - name: "Eric Battaglioli"
         role: "Teaching Mentor"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://biology.emory.edu/people/bios/faculty/battaglioli-eric.html
-            icon: fab fa-regular fa-address-card
+            icon: fas fa-regular fa-address-card
 
   contact:
     title: "Contact Us"
