@@ -1,5 +1,5 @@
 ---
-title: Project Name
+title: Graduate Training in Teaching
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/02-full.jpg
 alt: Keep Exploring
