@@ -45,10 +45,10 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+      - title: "Where it All Started"
+        year: "2023"
+        desc: "I was accepted into the 2023 USF STEM Academy run by Dr. Richard Pollenz. This was a 2 week program that took place prior to my first semester as an undergraduate student."
+        image: assets/img/timeline/STEM-Academy-Photo.jpg
         alt:
       - title: "An Agency is Born"
         year: "March 2011"
