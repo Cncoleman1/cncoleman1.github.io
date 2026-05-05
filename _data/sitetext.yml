@@ -23,14 +23,14 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Research"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        desc: "I study the impact of surrounding gases in air (particulary ammonia) on the ability of influenza a virus to spread"
+        icon: fas fa-book-open #find more at https://fontawesome.com/icons
       - title: "Teaching"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+        icon: fas fa-solid fa-apple-whole
       - title: "Outreach"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fas fa-solid fa-people-group
 
   portfolio:
     title: "Portfolio"
