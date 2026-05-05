@@ -5,7 +5,7 @@ image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
-  title: Finish
+  title: Summer Research Experiences for Undergraduates (REUs)
   subtitle: Identity
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
