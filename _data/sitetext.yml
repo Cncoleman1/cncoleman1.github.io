@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "About Me"
-    text: "I am a 3rd year PhD Candidate in the Microbiology and Molecular Genetics (MMG) program at Emory University. After 1 year of laboratory rotations, I joined Dr. Rafael Medina's lab in the Department of Pathology and Laboratory Medicine"
+    text: "I am a 3rd year PhD Candidate in the Microbiology and Molecular Genetics (MMG) program at Emory University. After 1 year of laboratory rotations, I joined [Dr. Rafael Medina's lab](https://med.emory.edu/departments/pathology/labs/medina-lab.html) in the Department of Pathology and Laboratory Medicine."
     image: assets/img/SEA-PHAGES-Lab-Coat-Grad-Photo.jpg
     section: services
     list:
