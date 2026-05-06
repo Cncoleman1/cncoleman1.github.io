@@ -26,11 +26,11 @@ en: &DEFAULT_EN
         desc: "I study the impact of surrounding gases in air (particulary ammonia) on the ability of influenza a virus to spread"
         icon: fas fa-book-open #find more at https://fontawesome.com/icons
       - title: "Teaching"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-apple-whole
+        desc: "I serve as a teaching assistant for the undergraduate Microbiology lecture."
+        icon: fab fa-apple-whole
       - title: "Outreach"
-        desc: "Your description here, full **Markdown** support"
-        icon: fas fa-people-group
+        desc: "I volunteer through Emory student organizations both for science and non-science related causes"
+        icon: fab fa-people-group
 
   portfolio:
     title: "Portfolio"
