@@ -9,12 +9,10 @@ caption:
   title: Dissertation Research
   subtitle: Influenza A virus transmission
   thumbnail: assets/img/portfolio/Plaque-Assay-Thumbnail.jpg
-  title: Dissertation Research
-  subtitle: Influenza A virus transmission
-  thumbnail: assets/img/portfolio/Plaque-Assay-Thumbnail.jpg
 
 ---
 Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+
 
 {:.list-inline}
 - Date: January 2017
