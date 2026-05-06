@@ -101,19 +101,19 @@ en: &DEFAULT_EN
     people:
       - name: "Rafael Medina"
         role: "Thesis Advisor"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/Rafael-Medina.png
         social:
           - url: https://med.emory.edu/departments/pathology/research/patru/people/laboratories/medina-lab.html
             icon: fas fa-regular fa-address-card
       - name: "Anne Piantadosi"
         role: "Committee Lead"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/Anne-Piantadosi.png
         social:
           - url: https://vaccines.emory.edu/faculty/primary-faculty/piantadosi-anne.html
             icon: fas fa-regular fa-address-card
       - name: "Eric Battaglioli"
         role: "Teaching Mentor"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/Eric-Battaglioli.png
         social:
           - url: https://biology.emory.edu/people/bios/faculty/battaglioli-eric.html
             icon: fas fa-regular fa-address-card
