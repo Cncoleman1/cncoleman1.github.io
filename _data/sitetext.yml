@@ -27,10 +27,10 @@ en: &DEFAULT_EN
         icon: fas fa-book-open #find more at https://fontawesome.com/icons
       - title: "Teaching"
         desc: "I serve as a teaching assistant for the undergraduate Microbiology lecture."
-        icon: fas fa-solid fa-person-chalkboard
+        icon: fas fa-chalkboard-teacher
       - title: "Outreach"
         desc: "I volunteer through Emory student organizations both for science and non-science related causes"
-        icon: fab fa-people-group
+        icon: fab fa-user
 
   portfolio:
     title: "Portfolio"
