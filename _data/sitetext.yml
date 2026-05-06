@@ -30,7 +30,7 @@ en: &DEFAULT_EN
         icon: fas fa-chalkboard-teacher
       - title: "Outreach"
         desc: "I volunteer through Emory student organizations both for science and non-science related causes"
-        icon: fab fa-user
+        icon: fab fa-users
 
   portfolio:
     title: "Portfolio"
