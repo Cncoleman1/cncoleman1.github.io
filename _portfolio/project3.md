@@ -1,13 +1,13 @@
 ---
 title: Volunteering/Outreach
 subtitle: Serving the community
-image: assets/img/portfolio/ATL-Science-Festival-2024.jpeg
-alt: assets/img/portfolio/ATL-Science-Festival-2024.jpeg
+image: assets/img/portfolio/ATL-Science-Festival-2024.jpg
+alt: assets/img/portfolio/ATL-Science-Festival-2024.jpg
 
 caption:
   title: Volunteering/Outreach
   subtitle: Serving the community
-  thumbnail: assets/img/portfolio/ATL-Science-Festival-2024.jpeg
+  thumbnail: assets/img/portfolio/ATL-Science-Festival-2024.jpg
   
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
