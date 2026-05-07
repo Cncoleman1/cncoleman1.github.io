@@ -67,7 +67,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Now in my 3rd Year <br> MMG PhD Program <br> Emory University"
+    end: "3rd Year <br> Emory MMG  <br> PhD Program"
 
   about:
     title: "Publications"
