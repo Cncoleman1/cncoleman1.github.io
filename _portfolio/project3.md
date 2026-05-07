@@ -1,7 +1,7 @@
 ---
 title: Volunteering/Outreach
 subtitle: Serving the community
-image: assets/img/portfolio/ATL-Science-Festival-2024.jpg
+image: assets/img/portfolio/ATL-Science-Festival-2024-Full.jpg
 alt: assets/img/portfolio/ATL-Science-Festival-2024.jpg
 
 caption:
