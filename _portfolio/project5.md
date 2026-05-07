@@ -1,13 +1,14 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/05-full.jpg
+title: Research Experiences for Undergraduates
+subtitle: Summer REUs
+image: assets/img/portfolio/UGA-REU-Photo.jpg
 alt: 
 
 caption:
   title: Research Experiences for Undergraduates
   subtitle: Summer REUs
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  thumbnail: assets/img/portfolio/UGA-REU-Photo.jpg
+  
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
