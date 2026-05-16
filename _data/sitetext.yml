@@ -120,7 +120,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Me"
-    text: "Please feel free to reach out if you have questions about graduate school. Enter NA in the phone number column if you do not wish to share that information"
+    text: " <span style='color: white;'> Please feel free to reach out if you have questions about graduate school. Enter NA in the phone number column if you do not wish to share that information"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
