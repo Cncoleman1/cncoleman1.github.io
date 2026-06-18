@@ -46,13 +46,13 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Where it All Started"
-        year: "May 2023"
+        year: "July 2019"
         desc: "I was accepted into the 2023 USF STEM Academy run by Dr. Richard Pollenz. This was a 2 week program that took place prior to my first semester as an undergraduate student."
         image: assets/img/timeline/STEM-Academy-Photo.jpg
         alt:
-      - title: "SEA-PHAGES"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "SEA-PHAGES/SEA-GENES"
+        year: "August 2019-August 2022"
+        desc: " I was selected as one of 32 students in the 2019 SEA-PHAGES Cohort. I continued to work with Dr. Richard Pollenz first at a teaching assistant for SEA-PHAGES, then again as a student in the 2022 SEA-GENES Cohort. Phage-Hunters Advancing Genomics and Evolutionary Science (PHAGES) and Gene Exploration by a Network ofo Emerging Scientists (GENES) Are both Science Education Alliance (SEA) programs funded by the Howard Hughes Medical Institute (HHMI) and National Science Foundation (NSF). "
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Summer REUs"
