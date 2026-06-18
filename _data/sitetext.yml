@@ -63,7 +63,7 @@ en: &DEFAULT_EN
       - title: "Title"
         year: "Gap Year: STEM Specialist/Residential Counselor"
         desc: "I worked in the Summer of 2023 as a residential counselor at Barnard College in New York City, New York and in 2024 at the University of Pennsylvania in Philadelphia, Pennsylvania."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/RC-Caitlyn-200.jpg
         alt:
         # you can enforce the alignment
         align: right
