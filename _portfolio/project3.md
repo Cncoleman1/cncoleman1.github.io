@@ -14,6 +14,7 @@ I have been passionate about community service since high school and became inte
 
 ---
 ![SJK TikTok Screenshots](/assets/img/portfolio/SJK25_TikTok.png)
+
 In the Summer of 2025 I also volunteered with the Science Journal for Kids and Teens, an organization that adapts scientific research articles for K-12 teachers and students. I create a series of TikTok videos based on their collection: 3 Science Articles about Outbreaks. Click the links below to watch my videos on the Science Journal for Kids TikTok.
 
 ---
