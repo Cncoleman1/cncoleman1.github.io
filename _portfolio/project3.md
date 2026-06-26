@@ -19,6 +19,7 @@ In the Summer of 2025 I also volunteered with the Science Journal for Kids and T
 
 ---
 ![SAW Canvas Art](/assets/img/portfolio/SAW25-Containment.jpg) 
+
 I created an piece of canvas artwork for the 2025 Science Art Wonder Showcase describing my dissertation research. This acrylic painting is titled "Containment" and can still be found on display with Science Art Wonder during their annual gallery showcase. Read about my piece here!
 
 ----
