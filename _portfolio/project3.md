@@ -25,8 +25,5 @@ I created an piece of canvas artwork for the 2025 Science Art Wonder Showcase de
 
 ----
 
-{:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+
 
