@@ -1,6 +1,6 @@
 ---
 title: Graduate Training in Teaching
-subtitle: Lorem ipsum dolor sit amet consectetur.
+subtitle: Science in Lecture and Lab Courses
 image: assets/img/portfolio/Empty-Classroom-1462-Thumbnail.jpg
 alt: Keep Exploring
 
@@ -10,7 +10,8 @@ caption:
   thumbnail: assets/img/portfolio/Empty-Classroom-1462-Thumbnail.jpg
   
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+
+I served as a graduate teaching assitant for the BIO370 Introduction to Microbiology
 
 {:.list-inline}
 - Date: January 2017
