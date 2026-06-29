@@ -18,7 +18,7 @@ en: &DEFAULT_EN
     - title: "Publications"
       section: about
     - title: "News"
-      section: about
+      section: more
     - title: "My Journey"
       section: timeline
     - title: "Mentors"
