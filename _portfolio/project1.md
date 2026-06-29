@@ -11,12 +11,9 @@ caption:
   thumbnail: assets/img/portfolio/Plaque-Assay-Thumbnail.jpg
 
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+I am studying how the concentration gases (particularly ammonia) can impact the ability of influenza A viruses to transmit using the guinea pig model. This is due to the change in pH inside of the aerosol that contains the virus particle. 
 
+I also investigate the impacts of pH on the virus through in vitro methods, studying how virus exposure to acidic pH impacts the titer over time as measured via plaque assay. 
 
-{:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
 ---
 
