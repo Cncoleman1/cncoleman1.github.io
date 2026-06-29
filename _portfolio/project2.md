@@ -10,11 +10,12 @@ caption:
   thumbnail: assets/img/portfolio/Empty-Classroom-1462-Thumbnail.jpg
   
 ---
+I served as a graduate teaching assistant for the BIO370 Introduction to Microbiology during Fall 2025 and as a discussion facilitator in Spring 2026. During this time I delivered a lecture on influenza viruses and created an in-class activity to guide students through a series of reassortment events that led to the spillover of H5N1 influenza virus into mammals. Click here to view my lecture and discussion materials. 
 
-I served as a graduate teaching assitant for the BIO370 Introduction to Microbiology
+I will teach the BIO370 Introduction to Microbiology laboratory course in Fall 2026 alongside a discussion section for the lecture course. 
 
-{:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+---
 
+I was accepted into the 2026 STEM Teacher Training program to work towards teaching certificate under the mentorship of Eric Battaglioli.
+
+---
