@@ -57,7 +57,8 @@ en: &DEFAULT_EN
         alt:
       - title: "Summer REUs"
         year: "Summer 2021, Summer 2022"
-        desc: "I spent 8 weeks conducting research at Cornell University in Ithaca, New York and the University of Georgia, in Athens, Georgia"
+        desc: "I spent 8 weeks conducting research at Cornell University in Ithaca, New York under the mentorship of Dr. Cedric Feschottte, working closely with Dr. Wells on my first computational project exploring the coevolution of transposable elements and zinc finger genes. At the University of Georgia, in Athens, Georgia I performed  microbial source tracking associated with *Salmonella* in 
+four distinct creek systems."
         image: assets/img/timeline/UGA-REU-Photo-Group-200.jpg
         alt: image alt text
       - title: "Title"
