@@ -17,8 +17,6 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "Publications"
       section: about
-    - title: "News"
-      section: more
     - title: "My Journey"
       section: timeline
     - title: "Mentors"
