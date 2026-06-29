@@ -7,7 +7,7 @@ alt: Shirts on a hanger
 
 caption:
   title: Dissertation Research
-  subtitle: Impact of Air Composition on Influenza A virus transmission
+  subtitle: Influenza A virus transmission
   thumbnail: assets/img/portfolio/Plaque-Assay-Thumbnail.jpg
 
 ---
