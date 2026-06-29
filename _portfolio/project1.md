@@ -1,13 +1,13 @@
 ---
 title: Dissertation Research
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+subtitle: Impact of Air Composition on Influenza A virus transmission
 image: assets/img/portfolio/Plaque-Assay.jpg
 alt: Shirts on a hanger
    
 
 caption:
   title: Dissertation Research
-  subtitle: Influenza A virus transmission
+  subtitle: Impact of Air Composition on Influenza A virus transmission
   thumbnail: assets/img/portfolio/Plaque-Assay-Thumbnail.jpg
 
 ---
