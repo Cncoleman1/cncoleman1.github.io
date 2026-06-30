@@ -1,6 +1,6 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: SEA PHAGES/SEA GENES Undergraduate Research
+subtitle: Research in the Classroom
 image: assets/img/portfolio/SEA-PHAGES-Bench.jpg
 alt: 
 
