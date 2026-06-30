@@ -1,6 +1,6 @@
 ---
 title: SEA PHAGES/SEA GENES Undergraduate Research
-subtitle: Research in the Classroom
+subtitle: Course-based undergraduate research experiences
 image: assets/img/portfolio/SEA-PHAGES-Bench.jpg
 alt: 
 
@@ -10,10 +10,7 @@ caption:
   thumbnail: assets/img/portfolio/SEA-PHAGES-Bench.jpg
   
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+I was admitted to the SEA-PHAGES program fresh out of the 2019 STEM Academy. I isolated a novel bacteriophage, characterized it, and chose a name for my phage to upload it into the actinobacteriophage database (linked here).
 
-{:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
+---
 
