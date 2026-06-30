@@ -7,7 +7,7 @@ alt:
 caption:
   title: STEM Education Gap Year
   subtitle: Science outside the lab
-  thumbnail: assets/img/portfolio/UPenn-RC-Door-Thumbnail.jpg
+  thumbnail: assets/img/portfolio/Philly-NYC-Thumbnail.png
   
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
