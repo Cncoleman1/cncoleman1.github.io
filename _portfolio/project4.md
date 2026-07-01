@@ -14,9 +14,9 @@ I worked in the Summer of 2023 as a Residential Counselor and Barnard College in
 ![NY-PA Selfie](/assets/img/portfolio/NY-PA-Selfie.png)
 
 ---
-*add image from ice cream social plus favorite ice cream flavor, plus spa night flyer
 I also supported social events and field trips for our students that included spa nights, ice cream socials,  and even had time to pursue my own interests in Philly such as visiting the Science History Institute. 
-*add images from Science History Museum
+#![NY-PA Selfie](/assets/img/portfolio/NY-PA-Selfie.png)
+
 
 ---
 
