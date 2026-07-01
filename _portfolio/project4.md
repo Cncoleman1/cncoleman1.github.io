@@ -10,7 +10,7 @@ caption:
   thumbnail: assets/img/portfolio/Philly-NYC-Thumbnail.png
   
 ---
-*add image Philadelphia love and image from Brooklyn bridge
+*add image Philadelphia love and image from Brooklyn bridge NY-PA-Selfie.png
 I worked in the Summer of 2023 as a Residential Counselor and Barnard College in New York City, New York and in Summer of 2024 at the University of Pennsylvania in Philadelpia, Pennsylvania. I mentored over high school sophomores living on-campus for the summer and attending pre-college programs at either Barnard or UPenn. As a recent graduate, I shared my experience in undergrad with scientific research, getting involved on-campus, and applying for national awards/fellowships. 
 
 ---
