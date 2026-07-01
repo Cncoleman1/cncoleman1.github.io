@@ -23,3 +23,5 @@ There was even time to pursue my own interests in Philly such as visiting the Sc
 
 During Fall 2023/Spring 2024 I taught STEM concepts to preschoolers as a STEM Specialist at Amazing Explorers Academy. I facilitated activities, crafts, and collaborative projects that helped foster a strong sense of curiosity and interest for each of my classes.
 
+![AEA Showcase](/assets/img/portfolio/AEA-Showcase.png)
+
