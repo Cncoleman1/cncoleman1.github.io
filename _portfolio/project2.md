@@ -15,10 +15,6 @@ I served as a graduate teaching assistant for the BIO370 Introduction to Microbi
 Click here to view my lecture and discussion materials. 
 ![Reassortment Race](/assets/img/portfolio/Reassortment_Race.png)
 
-I will teach the BIO370 Introduction to Microbiology laboratory course in Fall 2026 alongside a discussion section for the lecture course. 
-
----
-
-I was accepted into the 2026 STEM Teacher Training program to work towards teaching certificate under the mentorship of Eric Battaglioli.
+I will teach the BIO370 Introduction to Microbiology laboratory course in Fall 2026 as part of the 2026 Graduate Division of Biological and Biomedical Sciences STEM Teacher Training program to work towards teaching certificate under the mentorship of Eric Battaglioli.
 
 ---
