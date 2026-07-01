@@ -1,8 +1,7 @@
 ---
 title: STEM Education Gap Year
 subtitle: Science outside the lab
-image: assets/img/portfolio/UPenn-RC-Door.jpg
-alt: 
+image: assets/img/UPenn-Barnard.png
 
 caption:
   title: STEM Education Gap Year
