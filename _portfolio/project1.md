@@ -14,7 +14,6 @@ caption:
 I am studying how the concentration gases (particularly ammonia) can impact the ability of influenza A viruses to transmit using the guinea pig model. This is due to the change in pH inside of the aerosol that contains the virus particle. 
 
 I also investigate the impacts of pH on the virus through in vitro methods, studying how virus exposure to acidic pH impacts the titer over time as measured via plaque assay. 
-![pH meter](/assets/img/portfolio/)
 
 ---
 
