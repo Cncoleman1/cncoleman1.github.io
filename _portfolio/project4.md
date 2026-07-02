@@ -15,7 +15,7 @@ I worked in the Summer of 2023 as a Residential Counselor and Barnard College in
 
 ---
 I also supported social events for students to connnect with each other such as sunrise yoga, spa nights and ice cream socials. I navigated both large cities to support group excursions to a variety of museums and historical sites.
-There was even time to pursue my own interests in Philly such as visiting the Science History Institute. 
+There was even time to pursue my own interests in Philly such as visiting the Science History Institute. Click here for a student testimonial regarding my mentorship that summer [Student Testimontial](https://drive.google.com/file/d/1Wr-nnTsEswLnRl10hWrbCERRhRuhkPCo/view?usp=sharing)
 
 ![SH Museum](/assets/img/portfolio/SH-Museum.png)
 
