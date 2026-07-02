@@ -10,7 +10,7 @@ caption:
   thumbnail: assets/img/portfolio/SEA-PHAGES-Bench.jpg
   
 ---
-I was admitted to the SEA-PHAGES program fresh out of the 2019 STEM Academy. I isolated a novel bacteriophage, characterized it, and chose a name for my phage to upload it into the actinobacteriophage database (linked here).
+I was admitted to the SEA-PHAGES program fresh out of the 2019 STEM Academy. I isolated a novel bacteriophage, characterized it, and chose a name for my phage to upload it into the actinobacteriophage database [Phages Db](https://phagesdb.org/creola))
 
 ---
 
