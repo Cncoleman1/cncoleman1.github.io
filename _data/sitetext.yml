@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Research"
-        desc: "I study the impact of surrounding gases in air (particulary ammonia) on the ability of influenza a virus to spread"
+        desc: "I study the impact of surroundinG gases in air (particulary ammonia) on the ability of influenza a virus to spread"
         icon: fas fa-book-open #find more at https://fontawesome.com/icons
       - title: "Teaching"
         desc: "I serve as a teaching assistant for the undergraduate Microbiology lecture."
