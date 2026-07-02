@@ -12,7 +12,7 @@ caption:
 ---
 
 I served as a graduate teaching assistant for the BIO370 Introduction to Microbiology during Fall 2025 and as a discussion facilitator in Spring 2026. During this time I delivered a lecture on influenza viruses and created an in-class activity to guide students through a series of reassortment events that led to the spillover of H5N1 influenza virus into mammals.
-Click here to view my lecture. [Fall 2025 Lecture](https://drive.google.com/file/d/1ImCPVynpZ7iA_BUVRJcuZFYwkMLrkx-p/view)
+Click here to view my lecture. [Fall 2025 Lecture](https://drive.google.com/file/d/15SejQcVnI_wPRobPBGRwfqa1Q91DTF9V/view?usp=sharing)
 
 --- 
 
