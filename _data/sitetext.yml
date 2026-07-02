@@ -40,11 +40,16 @@ en: &DEFAULT_EN
 
   timeline:
     title: "My Journey"
-    text: 
+    text: "Follow my progression as a scientist from high school to graduate school"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
+      - title: "Countryside High School Biotechnology"
+        year: "May 2019"
+        desc: "I was accepted into the 2023 USF STEM Academy run by Dr. Richard Pollenz. This was a 2 week program that took place prior to my first semester as an undergraduate student."
+        image: assets/img/timeline/STEM-Academy-Photo-200.jpg
+        alt:
       - title: "Where it All Started"
         year: "July 2019"
         desc: "I was accepted into the 2023 USF STEM Academy run by Dr. Richard Pollenz. This was a 2 week program that took place prior to my first semester as an undergraduate student."
