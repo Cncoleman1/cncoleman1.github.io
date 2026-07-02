@@ -1,7 +1,7 @@
 ---
 title: Research Experiences for Undergraduates
 subtitle: Summer REUs
-image: assets/img/portfolio/UGA-REU-Photo.jpg
+image: 
 alt: 
 
 caption:
