@@ -45,9 +45,9 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Countryside High School Biotechnology"
+      - title: "Biotech Track-ISTEM at Countryside High School"
         year: "May 2019"
-        desc: "I was accepted into the 2023 USF STEM Academy run by Dr. Richard Pollenz. This was a 2 week program that took place prior to my first semester as an undergraduate student."
+        desc: "Through Countryside High School's Institute for Science Technology Engineering and Math (ISTEM) program, I earned my Biotechnician Assistant credentials and gained introductory laboratory skills. I performed my first independent science project which won first place at the Pinellas County regional science fair and proceeded to the State level."
         image: assets/img/timeline/STEM-Academy-Photo-200.jpg
         alt:
       - title: "Where it All Started"
