@@ -16,6 +16,5 @@ I am studying how the concentration gases (particularly ammonia) can impact the 
 I also investigate the impacts of pH on the virus through in vitro methods, studying how virus exposure to acidic pH impacts the titer over time as measured via plaque assay. 
 
 ---
-
 I use madine darby canine kidney (MDCK) cells to grow stocks of influenza A virus and also to perform plaque assays on as they are susceptible to infection. These are robust adherent cells that can survive the infection process and produce reprodicuble results. 
 ![MDCK](/assets/img/portfolio/MDCK.jpg)
