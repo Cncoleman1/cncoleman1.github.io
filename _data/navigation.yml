@@ -24,7 +24,7 @@ en: &DEFAULT_EN
     - title: "Contact"
       section: contact
     - title: "CV"
-      url: https://drive.google.com/file/d/15c77g91Wgnzr59MuY9AbeLLhfFTEr6g0/view?usp=sharing
+      url: https://drive.google.com/file/d/1BHNniWCiTYPCMklaVf8W6TUjMj7SBgLw/view?usp=sharing
 en-US:
   <<: *DEFAULT_EN
 en-CA:
